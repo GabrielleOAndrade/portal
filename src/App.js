@@ -8,6 +8,7 @@ function App() {
       <Header />
       <main className="h-75 overflow-y-auto">
         <Outlet />
+        <p>Teste</p>
       </main>
 
       <Footer />
